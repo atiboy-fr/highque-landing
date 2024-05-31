@@ -18,11 +18,14 @@ function App() {
         <li>Login</li>
         <li className='green-btn'>Create Account</li>
         </ul>
+        
       </div>
+        <img src={'/images/bars-solid.svg'} alt="" className='hamburger' />
+
       </div>
 
       <div className='first-section'>
-        <div>
+        <div className='first-sec-title'>
           <h2>The cheap, <br/> Fast way to <br/> Send money abroad</h2>
           <p className='first-paragraph'>You can now send money home and abroad at an exchange rate <br/>better and cheaper than the conventional banks</p>
 
@@ -49,7 +52,7 @@ function App() {
       </div>
 
       <div className='second-section'>
-        <h2>Why Choose Highque</h2>
+        <h2>Why Choose Highque ?</h2>
 
         <div  className='testimonials'>
           <div className='testimonial-child'>
