@@ -574,6 +574,11 @@ body {
 
   .text-container {
     width: 300px;
+
+    & button {
+    height: 20px;
+    font-size: 10px;
+    }
   }
 
   .fourth-section {
