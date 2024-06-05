@@ -197,7 +197,7 @@ function App() {
       </div>
 
       <p className='final-paragraph'>
-      Highque Limited is a company registered in England and Wales under company number 13872977 and is registered with the UK Financial Conduct Authority as a PSD Agent. Registered<br/> Office : C/O Aacsl Accountants Ltd, 1st Floor North Westgate House, Harlow, Essex, England, CM20 1YS. Highque Limited is authorised and regulated by the Financial Conduct Authority,<br/> as an Electronic Money Institution, registration number: 975377
+        Highque Limited is a company registered in England and Wales under company number 13872977 and is registered with the UK Financial Conduct Authority as a PSD Agent. Registered<br/> Office : C/O Aacsl Accountants Ltd, 1st Floor North Westgate House, Harlow, Essex, England, CM20 1YS. Highque Limited is authorised and regulated by the Financial Conduct Authority,<br/> as an Electronic Money Institution, registration number: 975377
       </p>
     
     </div>
